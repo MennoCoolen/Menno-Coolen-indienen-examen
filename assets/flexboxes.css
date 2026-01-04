@@ -1,0 +1,12 @@
+.two-columns {
+    display: flex;
+    gap: 20px; /* spacing between columns */
+}
+
+.column {
+    flex: 1;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    padding: 15px;
+    border-radius: 10px;
+}
